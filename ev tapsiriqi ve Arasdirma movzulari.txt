@@ -1,0 +1,147 @@
+# P203-15.08.2017
+
+# Arasdirma movzulari
+
+- Programlasdirma paradiqmalari
+- Deyisen (Variable)
+- Funksiya (Function)
+- Dovrler (Loops)
+- Massivler (Arrays)
+- Sertler (Conditions)
+
+- Paradiqma oyrenmeye niye ehtiyacimiz var?
+- Hansi programlasdirma dilini sececeyime nece gerar vermeliyem?
+- Hansi paradigamalar var ve bir birinden ferqleri nelerdir?
+- Size gore en yaxsi paradigma hansidir?
+
+
+Qeyd : Arasdirma qaynaqlarinin siyahisini da geyd edin.
+
+
+                   
+
+
+                            Cavablar:
+
+
+- Programlasdirma paradiqmalari
+
+Proqramlasdirma paradiqmasi komputer proqramlasdirmasinin esas bir terzidir.
+
+Paradiqmalar proqram elementlerini temsil etmek ucun istifade olunan konsepsiyalar ve abstraksiyalar ile ferqlenir .
+
+Paradigma -Model demekdir . Paradiqmanin meqsedi oxsar hadiselerin numunesi ile bir tamasaciya teqdim etdirir.
+
+
+Major Paradigms •
+
+• Imperative 
+ • Functional
+ • Declarative 
+• Object Oriented 
+• Event-Driven 
+• Stochastic 
+
+Dec.Proqramla?d?rma paradiqmalar?n? t?snif etm?k üçün bir çox yol var. Bununla yana??, onlar bir-birind?n f?rql?nmirl?r.
+
+
+1) Imperative -?mperativ Proqramla?d?rma • Lat?n sözcükl?rind?n al?nm?? imperare "?mr verm?k" dem?kdir. • Saxlanmada d?yi??nl?ri ?mr ed?n ?mrl?r? ?saslan?r. • Proqram dövl?tini d?yi?dir?n ifad?l?r bax?m?ndan hesablama üsulunu t?svir ed?n bir proqramla?d?rma paradiqmas?d?r.Contd .. • Kompüterin yerin? yetirilm?si üçün ?mrl?rin s?ralar?n? mü?yy?n edir • ?mperativ proqramla?d?rma dövl?t v? ?mrl?rl? proqramla?d?rma il? xarakteriz? olunur.
+• Proqram?n icras? bir s?ra ard?c?ll?q yarad?r.
+
+Hesablama riyazi funksiyalar? qiym?tl?ndirm?k kimi qiym?tl?ndirir v? dövl?t v? d?yi?k?n m?lumatlardan yay?n?r. • ?mperativ proqramla?d?rma t?rzind?n f?rqli olaraq funksiyalar?n t?tbiqi vur?ulan?r.
+
+2)Functional
+
+- Bu paradiqmada bir proqram funksiyadan ibar?tdir v? funksiyan? riyaziyyatda istifad? edil?n kimi istifad? edir .Proqram?n icras? bir-birin? z?ng ed?n funksiyalar? ehtiva edir
+ V? n?tic?ni geri qaytar?r.Funksional dill?rd? d?yi??nl?r yoxdur.
+
+Nümun?vi funksional dill?r a?a??dak?lard?r:
+
+ØML, MirandaTM, Haskell 
+ØAdvantages
+ ØSmall and clean syntax
+ ØBetter support for reasoning about programs 
+ØThey allow functions to be treated as any other data values. 
+ØThey support programming at a relatively higher level than the imperative languages 
+Ø Disadvantages
+ ØDifficulty of doing input-output 
+ØFunctional languages use more storage space than their imperative cousins
+
+Proqram?n müxt?lif yerl?rind? eyni kodu yenid?n istifad? etm?k qabiliyy?tin? malikdir. • "GOTO" v? ya "JUMP" ifad?l?rind?n daha çox proqram ax?n? izl?m?k üçün asan bir yol.
+
+Funksional Proqramla?d?rma • Hesablama riyazi funksiyalar? qiym?tl?ndirm?k kimi qiym?tl?ndirir v? dövl?t v? d?yi?k?n m?lumatlardan yay?n?r. • ?mperativ proqramla?d?rma t?rzind?n f?rqli olaraq funksiyalar?n t?tbiqi vur?ulan?r.
+
+
+
+
+
+
+
+
+
+
+
+3)Declarative 
+
+B?yannam?li Proqramla?d?rma Bir resept deyil N?tic?l?ri ?ld? etm?k üçün h?yata keçirilm?li olan komanda v? ya add?mlar? d?qiq olaraq siyah?ya salm?r.
+  B?yannam?l?rin mü?yy?n edilm?si problemin h?lli prosesind?n bir problemin ifad? olunmas? prosesini ay?r?r. Domen bir s?ra b?yanatlar vasit?sil? t?svir olunur Xarici "müh?rrik" bu b?yanatlar? bir v?zif?ni yerin? yetirm?k üçün ??rh edir.
+
+
+4)Object-Oriented 
+
+-Obyekt yönümlü dill?r Xüsusil? obyekt yönümlü dizaynlar? t?tbiq etm?k üçün n?z?rd? tutulmu? proqramla?d?rma dill?ri Object-oriented dill?rd? proqram? v? proqram t?r?find?n i?l?n?n m?lumatlar? yazmaq üçün istifad? edil?n kod obyektl?ri adlanan vahidl?r? birl??dirilir. Nesneler, obyektl?rin obyektl?ri olan obyektl?ri mü?yy?n ed?n sinifl?r? bölünürl?r. Nümun?l?r: Smalltalk, C ++, Java
+
+
+5)Event-Driven
+
+-Hadis?l?r? h?sr olunmu? proqramlar Hadis?l?r, bir istifad?çi bir ?eyl?ri daxil ed? bil?r - siçan t?klayarak - sistemin özü kimi ?eyl?ri - saat?n yenil?nm?si kimi.
+
+Bu proqramlar ümumiyy?tl? a?a??dak? kimi i?l?yir: - Daxili m?lumatlar?n ba?lan??c? - Hadis?l?rin g?lm?sini gözl?yin - G?l?n hadis?ni t?yin edin v? müvafiq olaraq reaksiya verin.
+Hadis? il? idar? olunan proqramlar
+ Nümun?l?r?
+GUI, mikrodal?al?, kamera Sistem hadis?l?ri proqrama gönd?rir v? proqram g?ldikl?ri zaman bunlara cavab verir.
+
+Size gore en yaxsi paradigma hansidir?
+
+- En yaxsi paradigma Obyekt yonumludur .
+
+Hansi paradigamalar var ve bir birinden ferqleri nelerdir?
+
+Major Paradigma :
+Imperative 
+ • Functional
+ • Declarative 
+• Object Oriented 
+• Event-Driven 
+• Stochastic 
+
+
+?mperativ proqramla?d?rma t?rzind?n f?rqli olaraq funksiyalar?n t?tbiqi vur?ulan?r.
+
+Dec.Proqramla?d?rma paradiqmalar?n? t?snif etm?k üçün bir çox yol var. Bununla yana??, onlar bir-birind?n f?rql?nmirl?r.
+
+Proqramla?d?rma dili Kompüter üçün t?limat yazmaq üçün istifad? olunan dil.
+CPU t?r?find?n ba?a dü?ül?n bu forma h?r hans? bir proqram?n t?msil olunmas? üsuludur.
+
+Proqramla?d?rma Dil Proqramlar? h?r hans? bir dili istifad? ed?r?k yaz?l?r v? bu dill?rd? kompüter proqramlar? yazmaq üçün prosedurlar v? qaydalar mü?yy?n edilir. Programc?lar, proqramla?d?rma dill?ri il? t?yin olunan qaydalara riay?t etm?lidirl?r. Dill?r növl?ri 1) A?a?? s?viyy?li dil 2) Yüks?k s?viyy?li dil.3)Yüks?k s?viyy?li dil tipl?ri.
+
+LOW LEVEL LANGUAGE -A?a?? s?viyy?li dil d? ma??n dili adlan?r. Dillerin bu növü ma??nlara yax?nd?r v? ma??nla asanl?qla ba?a dü?ülür, ?sas?n ikili ??klind?dir (0 & 1). A?a?? s?viyy?li dil tipl?ri Ma??n dili Assemble dili
+
+
+HIGH LEVEL LANGUAGE- Yüks?k s?viyy?li proqramla?d?rma dill?ri dil dill?ri v? sintaksisind?n daha çox istifad? olunan dill?rd?ndir; Dill?ri anlamaq asand?r. Dilin bu növü ma??ndan müst?qildir v? insan t?r?find?n asanl?qla ba?a dü?ül?n ingilis dilini istifad? edir.
+
+TYPES OF HIGH LEVEL LANGUGES-1) Procedural Languages 2) Functional & Non procedural Languages 
+
+3) Object Oriented Languages
+
+
+
+Qeyd : Arasdirma qaynaqlari
+
+https://www.lynda.com/Programming-tutorials/Foundations-of-Programming-Object-Oriented-Design/96949-2.html?utm_medium=integrated-partnership&utm_source=slideshare.
+
+
+en.wikipedia.org/wiki/Programming_paradigm
+
+https://www.slideshare.net/search/slideshow?searchfrom=header&q=Major+Paradign
+
